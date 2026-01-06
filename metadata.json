@@ -1,0 +1,7 @@
+{
+  "name": "Visionary - Advanced Image Analysis",
+  "description": "An AI-powered image analysis tool that generates detailed captions, narrative descriptions, and multi-language audio insights using Gemini 3 and 2.5 TTS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
